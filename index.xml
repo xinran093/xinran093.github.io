@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Xinran Zhu</title>
+        <link>https://xinran093.github.io/</link>
+        <description>Xinran&#39;s personal site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>zhu00323@umn.edu (Xinran Zhu)</managingEditor>
+            <webMaster>zhu00323@umn.edu (Xinran Zhu)</webMaster><lastBuildDate>Sun, 26 Jul 2020 17:44:05 -0500</lastBuildDate>
+            <atom:link href="https://xinran093.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>I have a blog now!</title>
+    <link>https://xinran093.github.io/i_have_a_blog_now/</link>
+    <pubDate>Sun, 26 Jul 2020 17:44:05 -0500</pubDate>
+    <author>Author</author>
+    <guid>https://xinran093.github.io/i_have_a_blog_now/</guid>
+    <description><![CDATA[Hello, Blog!  After a whole weekend, finally, it's live now! I'm adding a quick first blog! This site was powered by Hugo with theme LoveIt. I set it up by following a Hugo tutorial session on Youtube. The most time-consuming and challenging part is customizing, which required some understanding of each element/folder and knowledge of html and css (thanks to the Web Design course I took the last semester).]]></description>
+</item></channel>
+</rss>
